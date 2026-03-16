@@ -11,7 +11,7 @@
   --shimmer: #9d4edd;       /* Púrpura de Zaun (Shimmer) */
   --toxic: #20e3b2;         /* Verde Chemtech */
   --border: #1e293b;        /* Bordes sutiles */
-  --shadow: 0 0 15px rgba(0, 229, 255, 0.15); /* Resplandor Hextech */
+  --shadow: 0 0 15px rgba(0, 229, 255, 0.15); 
 }
 
 body {
